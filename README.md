@@ -1,4 +1,4 @@
-# Open Data Intelligence Hub - Polars
+# Open Data Intelligence Hub
 
 ## Overview
 
